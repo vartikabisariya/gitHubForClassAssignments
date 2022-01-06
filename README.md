@@ -9,4 +9,17 @@ Git is a version control system which runs on your computer. GitHub is an online
 
 Since this is a statistics course and not a computer science course, I don't care if you have a deep knowledge of git. All you really need to know for this course is that it allows you to create copies of your GitHub repositories on your own computer. And when you make changes to files in your repositories which are linked to the remote version online, it can help you push those changes to your online version. If you want to learn more about the foundations and inner workings of git you can look through the Optional Material section at https://github.com/cmcntsh/compSci2021_Setup . (You don't need to do that for this class. I just provide the link in case you have interest.) Git started out as a command line program. We won't be using it that way in this course. But if you want to get a taste of how git works from the command line you can complete the exercises at https://github.com/cmcntsh/exerGitPractice . (You don't need to do that for this class. I just provide the link in case you have interest.)
 
+## Fork this Repository
+
+When you fork a GitHub repository, you create an exact copy of that repository on your own GitHub account. There are a couple things you should remember about forking repositories.
+
+* You can only fork a repository (create a copy of the original repository in your own GitHub account) once. If you try to fork a repository again, you will get a message telling you that you already forked the repository. 
+* You can't fork a repository which is already on your own account. (Other people can fork your repositories, but you can't fork you own to the same account.) If you try to fork a repository on your own account, you will get a message telling you that you can't fork your own repository.
+
+Try it out by forking this repository to your own account.
+
+* On this current GitHub repository, scroll to the top and look for a button that says `fork`. As of the time I wrote this, that button was at the top right corner of the page. It looks like the screenshot below. Click the button.
+
 ![Fork Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/forkImage.png?raw=true)
+
+That's about it. You should now have a copy of the repository with the same name in your own GitHub account. You should be able to tell the difference between the original and your copy by looking at the url address. The original will have my GitHub account name in the path. (Look for `cmcntsh`.) `https://github.com/cmcntsh/gitHubForClassAssignments` Your copy should have your username somewhere in the url instead of mine. (If you need help with this, post a question on the discussion board or come to office hours.)
