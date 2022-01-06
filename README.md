@@ -78,7 +78,7 @@ Once you have the repository on your computer, you can complete your assignment 
 * If you're not already in your assignment repository folder in VSCode, open the folder using `File - Open Folder...`
 * Click on the version control button on the left side. See screenshot below.
 
-![Git Clone Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCgitClone.png?raw=true)
+![Version Control Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCversionControl.png?raw=true)
 
 * Enter a commit message in the text box at the top (just below the `SOURCE CONTROL` section). And click on the checkmark. See screenshot below.
 
