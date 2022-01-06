@@ -1,1 +1,2 @@
 I will use all the methods.
+Another line.
