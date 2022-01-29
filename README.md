@@ -36,7 +36,7 @@ You can download the files from your repository to your computer without cloning
 
 * On your own GitHub repository for this assignment, scroll up on the page and click on the green `Code` button. Then click on the `Download ZIP` button at the bottom of the dropdown menu. See screenshot below.
 
-![Download Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/downloadZip.png?raw=true)
+![Download Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/downloadZip.png?raw=true)
 
 * You should see the zip file download to your computer.
 * Extract the zip folder and you should find all the files from the repository on your computer.
@@ -47,7 +47,7 @@ You can manually upload files to GitHub. (If you didn't clone the repository, yo
 
 * On your own GitHub repository, scroll up on the page and click on the `Add file` button next to the `Code` button. Then click on the `Upload files` button at the bottom of the dropdown menu. See screenshot below.
 
-![Upload Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/GitHubUpload.png?raw=true)
+![Upload Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/GitHubUpload.png?raw=true)
 
 * After you drag your files or select them using the file chooser, click the green `Commit changes` button at the bottom of the screen.
 
@@ -59,14 +59,14 @@ Cloning your repository means creating a copy of your GitHub repository on your 
 
 * On your own GitHub repository for this assignment, scroll up on the page and click on the green `Code` button. Then click on the copy button at the top of the dropdown menu. It's right next to the little window that has the path. See screenshot below.
 
-![Download Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/downloadZip.png?raw=true)
+![Download Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/downloadZip.png?raw=true)
 
 * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
 * In VSCode from the command pallette (Ctrl-Shift-P) run `Git: Clone`
 
-![Command Pallet Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCcommand.png?raw=true)
+![Command Pallet Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCcommand.png?raw=true)
 
-![Git Clone Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCgitClone.png?raw=true)
+![Git Clone Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCgitClone.png?raw=true)
 
 * Paste the path into the path field which pops up
 * Select your new folder you created on your machine
@@ -80,19 +80,19 @@ Once you have the repository on your computer, you can complete your assignment 
 * If you're not already in your assignment repository folder in VSCode, open the folder using `File - Open Folder...`
 * Click on the version control button on the left side. See screenshot below.
 
-![Version Control Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCversionControl.png?raw=true)
+![Version Control Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCversionControl.png?raw=true)
 
 * Enter a commit message in the text box at the top (just below the `SOURCE CONTROL` section). And click on the checkmark. See screenshot below.
 
-![Commit Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCcommit.png?raw=true)
+![Commit Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCcommit.png?raw=true)
 
 * Click on the three dots on the right side of the `SOURCE CONTROL` section for `Views and More Actions...`. See screenshot below.
 
-![More Actions Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCMoreActions.png?raw=true)
+![More Actions Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCMoreActions.png?raw=true)
 
 * Go down to `Pull, Push` and click on `Sync`. See screenshot below.
 
-![Sync Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/VSCsync.png?raw=true)
+![Sync Screenshot](https://github.com/cmcntsh/gitHubForClassAssignments/blob/main/images/VSCsync.png?raw=true)
 
 * Be patient. It takes a few seconds to run.
 * Check your online repository. You should see your updated files.
